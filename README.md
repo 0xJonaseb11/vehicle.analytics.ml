@@ -2,6 +2,8 @@
 
 A comprehensive web application for vehicle data analysis and machine learning predictions. This project demonstrates Exploratory Data Analysis (EDA), Regression, Classification, and Clustering using Django and popular Python ML libraries.
 
+![Sample](./assets/Screenshot%202026-03-10%20at%2012.03.44.png)
+
 ## Project Structure
 
 ```text
